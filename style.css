@@ -1,0 +1,11 @@
+.text-center{
+    text-align: center;
+}
+p{
+    color: darkgrey;
+    text-align: justify;
+    padding: 30px 0 0 30px;
+}
+#h1-p{
+    padding-left: 30px;
+}
